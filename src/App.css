@@ -24,7 +24,9 @@
   color: white;
   min-width: 100vw;
 }
-
+.App-header p {
+  color: black;
+}
 .App-link {
   color: #61dafb;
 }
